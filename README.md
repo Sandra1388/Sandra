@@ -1,39 +1,19 @@
 🌸 Hi, I'm Sandra B
+
 Aspiring Developer | Web Enthusiast | Lifelong Learner
+
 ✨ Tech Stack & Tools
-🧑‍💻 Languages
 
-C
+🧑‍💻 Languages: C, PHP, JavaScript, SQL
 
-PHP
+🎨 Frontend: HTML, CSS
 
-JavaScript
+🗄 Database: MySQL (XAMPP)
 
-SQL
-
-🎨 Frontend
-
-HTML
-
-CSS
-
-🗄 Database
-
-MySQL (XAMPP)
-
-🛠 Tools
-
-Git
-
-GitHub
-
-XAMPP
-
-VS Code
-
-Canva
+🛠 Tools: Git, GitHub, XAMPP, VS Code, Canva
 
 🚀 Featured Projects
+
 🧼 Shoe Laundry Management System
 
 A PHP & MySQL-based web application designed to manage shoe cleaning service bookings, order updates, and delivery tracking.
