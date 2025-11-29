@@ -1,21 +1,47 @@
-Hi, I'm Sandra B
-
+🌸 Hi, I'm Sandra B
 Aspiring Developer | Web Enthusiast | Lifelong Learner
-
 ✨ Tech Stack & Tools
+🧑‍💻 Languages
 
-🧑‍💻 Languages: C, PHP, JavaScript, SQL
-🎨 Frontend: HTML, CSS
-🗄 Database: MySQL (XAMPP)
-🛠 Tools: Git, GitHub, XAMPP, VS Code, Canva
+C
+
+PHP
+
+JavaScript
+
+SQL
+
+🎨 Frontend
+
+HTML
+
+CSS
+
+🗄 Database
+
+MySQL (XAMPP)
+
+🛠 Tools
+
+Git
+
+GitHub
+
+XAMPP
+
+VS Code
+
+Canva
 
 🚀 Featured Projects
-
 🧼 Shoe Laundry Management System
-A PHP & MySQL-based web application for managing shoe cleaning services, bookings, and delivery tracking.
 
-🎮 C Mini Project – Event Scheduler
-A simple scheduling program built in C for managing event timings.
+A PHP & MySQL-based web application designed to manage shoe cleaning service bookings, order updates, and delivery tracking.
+
+🎮 Mini Project in C – Event Scheduler
+
+A lightweight C program used to create, organize, and manage event schedules efficiently.
 
 🏨 Venue Booking System
-A web-based system for browsing venues, checking availability, and managing bookings using Flask and MySQL
+
+A web-based platform built with Flask and MySQL that allows users to browse venues, check availability, and manage bookings seamlessly
