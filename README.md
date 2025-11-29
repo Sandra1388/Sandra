@@ -2,6 +2,8 @@
 
 Aspiring Developer | Web Enthusiast | Lifelong Learner
 
+_______________________________________________
+
 ✨ Tech Stack & Tools
 
 🧑‍💻 Languages: C, PHP, JavaScript, SQL
@@ -11,6 +13,8 @@ Aspiring Developer | Web Enthusiast | Lifelong Learner
 🗄 Database: MySQL (XAMPP)
 
 🛠 Tools: Git, GitHub, XAMPP, VS Code, Canva
+
+_________________________________________________
 
 🚀 Featured Projects
 
